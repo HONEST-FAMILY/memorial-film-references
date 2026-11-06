@@ -361,3 +361,6 @@ footer {
 .rival img { width: 100%; border-radius: 12px; border: 1px solid var(--line); }
 .rival b { display: block; font-size: 17px; margin-bottom: 6px; }
 .rival p { margin: 0 0 12px; color: #cfcfcb; font-size: 15px; }
+
+.devices .dn { color: #001522; }
+.strengths li.noimg div { padding: 18px 18px 20px; }
